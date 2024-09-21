@@ -2,7 +2,7 @@ import { Route, Routes } from "react-router-dom";
 import Sidebar from "./Components/Sidebar/Sidebar";
 import Topbar from "./Components/topbar/Topbar";
 import Home from "./Pages/home/Home";
-import "./app.css" 
+
 import UserList from "./Pages/userList/UserList";
 import User from "./Pages/User/User";
 import NewUser from "./Pages/NewUser/NewUser";
